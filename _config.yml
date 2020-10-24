@@ -2,7 +2,7 @@
 title: Dark Poole
 url: https://fuscofrancesco.github.io/site-test-dark
 paginate: 1
-baseurl: ""
+baseurl: /site-test-dark
 permalink: pretty
 
 # Gems
