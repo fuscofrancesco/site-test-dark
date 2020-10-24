@@ -43,7 +43,7 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: Blog
-    url: /dark-poole/archive
+    url: /site-test-dark/archive
 
   - title: About
-    url: /dark-poole/about
+    url: /site-test-dark/about
